@@ -1,0 +1,137 @@
+.cv{
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-shadow:0px 0px 10px 4px #AAA;
+}
+.cv .left .left-inside{
+    padding: 20px;
+}
+.cv .left .left-inside img{
+    width: 70%;
+    height: 70%;
+}
+.cv .left .left-inside .left-inside-r h3{
+    font-weight: bolder;
+    margin-top: 20%;
+    margin-left: -40px;
+}
+.cv .left .left-inside .left-inside-r h4{
+    color: #fc9d41;
+    margin-left: -40px;
+}
+
+.cv .heading .right{
+    text-align: right;
+    padding: 10px;
+    
+}
+.cv .heading .right span{
+    display: block;
+    padding: 5px;
+    font-weight: bold;
+    color: #828282;
+}
+
+.cv .heading .right span i{
+    font-size: 18px;
+    width: 40px;   
+    color: #fc9d41;
+}
+.text-after-head{
+    padding: 20px;
+    color: #828282;
+    font-size: 18px;
+    
+}
+.cv .body{
+    margin-top: 20px;
+}
+.cv .body span{
+    font-size: 30px;
+    padding-left: 30px;
+    color: #737373;
+    font-weight: bold;
+}
+.cv .body span i{
+    color: #fc9d41;
+}
+.cv .body hr{
+    border: 1px solid #828282;;
+    margin-top: 0px;
+}
+.cv .body .right .skills p{
+    color: #fc9d41;
+    display: inline-block;
+}
+
+.cv .body .left .project{
+    padding: 20px;
+    padding-top: 0px; 
+    margin: 30px;
+    margin-bottom: 0px;
+    border-bottom: 1px solid #000;
+}
+.cv .body .left .project:last-of-type{
+    border-bottom: none;
+    margin-bottom: 20px;
+}
+.cv .body .left .project p{
+    font-size: 18px;
+}
+.cv .body .left .project span{
+    font-size: 18px;
+    padding-left: 0px;
+    font-weight: bold;
+    color: #fc9d41;
+}
+.cv .body .left .project h3{
+    font-weight: bold;
+}
+
+.cv .body .left .certificates{
+   margin: 30px;
+}
+.cv .body .left .certificates .c{
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: #fc9d41;
+    color: #fff;
+}
+.cv .body .left .certificates .c h3{
+    font-size: 20px;
+}
+.cv .footer{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.cv .footer span{
+    font-size: 30px;
+    color: #737373;
+    font-weight: bold;
+}
+.cv .footer span i{
+    color: #fc9d41;
+}
+.cv .footer hr{
+    border: 1px solid #828282;;
+    margin-top: 0px;
+    width: 80%;
+}
+.cv .footer .cources{
+    width: 80%;
+    margin: 0px auto;
+    text-align: left;
+}
+.cv .footer .cources span{
+ font-weight: bold;
+ color: #fc9d41;
+}
+.cv .footer .cources p{
+    font-size: 18px;
+}
+.cv .footer .cources .center{
+    margin-left: 90px;
+
+}
